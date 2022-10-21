@@ -1,6 +1,7 @@
 # C-Lang_Hotel-Managment-Project
 <pre>
-These are the simple hotel managment console application that helps to manage you to customers food orders in a particular way, So let's order your food..😋🍛 
+These are the simple hotel managment console application that helps to manage you to customers food orders 
+in a particular way, So let's order your food..😋🍛 
 
 ****************::WELCOME TO HOTEL VILLA::****************
 
