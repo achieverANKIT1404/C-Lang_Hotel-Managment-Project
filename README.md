@@ -3,7 +3,7 @@
 These are the simple hotel managment console application that helps to manage you to customers food orders 
 in a particular way, So let's order your food..😋🍛 
 
-****************::WELCOME TO HOTEL VILLA::****************
+****************::WELCOME TO HOTEL VILLA::***************
 
 :::::::::::FOOD MENU::::::::::
 1) BIRYANI      160 Rs/-
